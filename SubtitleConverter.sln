@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtitleConverter", "SubtitleConverter\SubtitleConverter.csproj", "{C2D3187C-F640-41CD-9997-7BCB6DB0AB79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D3187C-F640-41CD-9997-7BCB6DB0AB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D3187C-F640-41CD-9997-7BCB6DB0AB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D3187C-F640-41CD-9997-7BCB6DB0AB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D3187C-F640-41CD-9997-7BCB6DB0AB79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55301F7B-F27A-445C-BF90-ACE15B55F962}
+	EndGlobalSection
+EndGlobal
